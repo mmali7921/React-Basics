@@ -3,7 +3,7 @@ import Header from './components/Header'
 {/*importing the Header file*/}
 
 function App() {
-  const name = 'React'; {/* variable*/}
+  const name = 'should i react'; {/* variable*/}
   return (
     <div>
       <Header data={name} />  {/*calling the Header function and passing the variable name*/}
